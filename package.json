@@ -1,0 +1,14 @@
+{
+  "name": "manga-app",
+  "version": "1.0.0",
+  "description": "Doc truyen online",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "keywords": [
+    "key1"
+  ],
+  "author": "truongnx",
+  "license": "ISC"
+}
