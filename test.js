@@ -4,7 +4,7 @@ var app = require('express')(),
 
 app.get('/',function(req,res){
     //res.sendFile(__dirname + "/demo.html");
-    res.json({notes: "This is my notes!"})
+    res.json({notes: "This is my notes 2!"})
 })
 
 app.listen(port, function() {
